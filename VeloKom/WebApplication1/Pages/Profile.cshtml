@@ -1,0 +1,23 @@
+﻿@page
+@model VeloKom.Pages.ProfileModel
+@{
+}
+<head>
+	<link rel="stylesheet" href="~/css/profile.css"/>
+</head>
+<div class="profilePage">
+	<div class="leftDiv">
+		<img class="imageForUser" src="~/img/user_img.png" /> <br />
+	</div>
+	<div class="menu">
+		<h1>@ProfileModel.user.login</h1>
+		<form method="post">
+			<button name="action" value="addAdver" type="submit">Добавить объявление</button> <br />
+			<button name="action" value="myAds" type="submit">Мои объявления</button><br />
+			<button name="action" value="likes" type="submit">Избранные</button><br />
+			<button name="action" value="exit" type="submit">Выйти</button><br />
+		</form>
+	</div>
+</div>
+
+

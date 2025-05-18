@@ -1,0 +1,58 @@
+﻿@page
+@model VeloKom.Pages.AddAdverModel
+@{
+}
+<head>
+    <link rel="stylesheet" href="~/css/addAdver.css"/>
+</head>
+<div class="cont">
+    <div class="image-preview">
+        <img id="imagePreview" alt="Предпросмотр изображения" style="display: none;" />
+    </div>
+
+    <div class="form-section">
+        <form method="post" enctype="multipart/form-data">
+            <input name="img" type="file" accept="image/*" onchange="previewImage(event)" required />
+            <input name="title" type="text" placeholder="Название" required />
+            <textarea name="description" placeholder="Описание"  required></textarea>
+            <select name="selectedCatId" required>
+                @foreach (var cat in AddAdverModel.categories)
+                {
+                    <option value="@cat.id">@cat.name</option>
+                }
+            </select>
+            <input name="cost" type="number" placeholder="Цена" step="0.01" min="0" required />
+            <input name="contact" type="text" placeholder="Номер телефона" required />
+            <button type="submit">Добавить</button>
+        </form>
+    </div>
+</div>
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="error-message">
+        @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+        {
+            <p>@error.ErrorMessage</p>
+        }
+    </div>
+}
+@if (TempData["Message"] != null)
+{
+    <script>
+        alert('Объявление успешно добавлено');
+    </script>
+}
+<script>
+    function previewImage(event) {
+        const file = event.target.files[0];
+        if (file) {
+            const reader = new FileReader();
+            reader.onload = function (e) {
+                const imagePreview = document.getElementById("imagePreview");
+                imagePreview.src = e.target.result;
+                imagePreview.style.display = "block";
+            };
+            reader.readAsDataURL(file);
+        }
+    }
+</script>

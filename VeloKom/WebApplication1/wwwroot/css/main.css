@@ -1,0 +1,136 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5;
+    color: #333;
+}
+header {
+    background-color: #4CAF50;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+header h1 {
+    margin: 0;
+    font-size: 34px;
+    letter-spacing: 4px;
+}
+header a img {
+    height: 40px;
+    border-radius: 50%;
+    
+}
+.container {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+}
+main {
+    font-size: 16px;
+    line-height: 1.6;
+}
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 14px;
+}
+.filters{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.filters button {
+    background-color: #808080;
+    color: white; 
+    border: none; 
+    padding: 10px 20px; 
+    font-size: 16px; 
+    border-radius: 30px;
+    cursor: pointer; 
+    transition: background-color 0.3s ease;
+}
+.filters button:hover {
+    background-color: #696969; 
+}
+
+.advertisements {
+    display: flex; /* Расположение объявлений в строку */
+    gap: 20px; /* Отступ между объявлениями */
+    justify-content: center; /* Центрируем объявления */
+    align-items: flex-start; /* Выравнивание объявлений по верхнему краю */
+    flex-wrap: wrap; /* Позволяем объявлениям переноситься на новую строку при нехватке места */
+}
+
+.advertisement {
+    width: 250px; /* Ширина карточки */
+    height: 250px; /* Установленная высота карточки */
+    background-color: #f0f0f0; /* Светло-серый фон */
+    border-radius: 10px; /* Закруглённые углы */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Лёгкая тень */
+    overflow: hidden; /* Скрытие элементов, выходящих за границы */
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Анимация при наведении */
+}
+
+.advertisement:hover {
+    transform: scale(1.05); /* Увеличение карточки при наведении */
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2); /* Увеличенная тень */
+}
+
+.advertisement img {
+    width: 100%; /* Изображение на всю ширину карточки */
+    height: 150px; /* Фиксированная высота изображения */
+    object-fit: cover; /* Аккуратное отображение изображения */
+}
+
+.advertisement .info {
+    padding: 10px; /* Отступы внутри блока информации */
+}
+
+.advertisement .title {
+    display: block;
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+    text-decoration: none;
+    text-align: left; /* Выравнивание текста по левому краю */
+    margin-bottom: 5px;
+}
+
+.advertisement .title:hover {
+    color: #007acc; /* Цвет ссылки при наведении */
+}
+
+.advertisement .cost {
+    font-size: 14px;
+    font-weight: normal;
+    color: #666;
+    text-align: left; /* Выравнивание текста по левому краю */
+    display: inline-block; /* Горизонтальная линия */
+    margin-right: 10px; /* Отступ справа */
+}
+
+.advertisement form {
+    display: inline-block; /* Горизонтальное размещение формы */
+    float: right; /* Прижимаем форму к правому краю */
+    margin-top: 15px;
+}
+
+.advertisement button {
+    background-color: transparent; /* Прозрачный фон кнопки */
+    border: none; /* Убираем стандартную обводку */
+    cursor: pointer; /* Стиль указателя мыши */
+}
+
+.advertisement button img {
+    width: 20px; /* Размер изображения в кнопке */
+    height: 20px;
+}

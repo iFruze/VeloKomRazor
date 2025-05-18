@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <script type="importmap"></script>
+    <link rel="stylesheet" href="~/css/main.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <a href="/Index"><img src="~/img/home.png" /></a>
+        <h1>VeloKom</h1>
+        <a href="/Auth"><img src="~/img/user_img.png" alt="Картинка" /></a>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    <footer>Все права защищены &copy;</footer>
+</body>
+</html>

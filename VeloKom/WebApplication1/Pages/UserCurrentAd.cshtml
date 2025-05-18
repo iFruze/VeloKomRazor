@@ -1,0 +1,19 @@
+﻿@page
+@model VeloKom.Pages.UserCurrentAdModel
+@{
+}
+<head>
+    <link rel="stylesheet" href="~/css/userCurAd.css" />
+</head>
+<div class="cont">
+    <div class="img-btn">
+        <img src="~/img/@UserCurrentAdModel.currentAd.image" />
+        <a class="gear" asp-page="/ChangeAdPage" asp-route-id="@UserCurrentAdModel.currentAd.id"><img src="~/img/gear.png" /></a>
+    </div>
+    <div class="bike-info">
+        <h1>@UserCurrentAdModel.currentAd.title</h1>
+        <p class="desc">@UserCurrentAdModel.currentAd.description</p>
+        <p class="cost"> Цена: @UserCurrentAdModel.currentAd.cost р.</p>
+        <p class="contacts">Контакты: @UserCurrentAdModel.currentAd.contacts</p>
+    </div>
+</div>

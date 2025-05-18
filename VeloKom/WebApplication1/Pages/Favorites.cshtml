@@ -1,0 +1,27 @@
+﻿@page
+@model VeloKom.Pages.FavoritesModel
+@{
+}
+<link rel="stylesheet" href="~/css/favorites.css"/>
+<form method="post">
+    <input type="text" name="cost" placeholder="До"/>
+    <button class="formBtn" type="submit">Применить</button>
+</form>
+<form method="get">
+    <button class="formBtn" type="submit">Очистить фильтры</button>
+</form>
+<div class="advertisements">
+    @foreach(var ad in FavoritesModel.favAds)
+    {
+        <div class="advertisement">
+            <img src="~/img/@ad.image" alt="Картинка" />
+            <div class="info">
+                <a class="title" asp-route-id="@ad.id" asp-page="/BikeInfo">@ad.title</a>
+                <p class="cost">Цена: @Math.Round(ad.cost, 2) р.</p>
+                <form method="post">
+                    <button name="like" value="@ad.id"><img src="~/img/fill_heart.png" /></button>
+                </form>
+            </div>
+        </div>
+    }
+</div>

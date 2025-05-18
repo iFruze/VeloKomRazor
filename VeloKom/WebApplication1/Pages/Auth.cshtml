@@ -1,0 +1,23 @@
+﻿@page
+@model VeloKom.Pages.AuthModel
+@{
+}
+<head>
+	<link rel="stylesheet" href="~/css/auth.css"/>
+</head>
+<form method="post" class="auth-form">
+    <input name="login" type="text" placeholder="Логин" />
+    <input name="password" type="password" placeholder="Пароль" />
+    <a asp-page="/Registration">Нет аккаунта?</a>
+    <button type="submit">Войти</button>
+</form>
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="error-message">
+        @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+        {
+            <p>@error.ErrorMessage</p>
+        }
+    </div>
+}
+

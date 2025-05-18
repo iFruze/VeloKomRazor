@@ -1,0 +1,27 @@
+﻿@page
+@model VeloKom.Pages.UserAdsModel
+@{
+}
+<head>
+    <link rel="stylesheet" href="~/css/userAdvers.css"/>
+</head>
+<div class="advertisements">
+    @foreach (var ad in UserAdsModel.ads)
+    {
+        <div class="advertisement">
+            <img src="~/img/@ad.image" alt="Картинка" />
+            <div class="info">
+                <a class="title" asp-route-id="@ad.id" asp-page="/UserCurrentAd">@ad.title</a>
+                @if (ad.cost == 0)
+                {
+                    <p class="cost">Бесплатно</p>
+                }
+                else
+                {
+                    <p class="cost">Цена: @Math.Round(ad.cost, 2) р.</p>
+                }
+                <a class="gear" asp-page="/ChangeAdPage" asp-route-id="@ad.id"><img src="~/img/gear.png"/></a>
+            </div>
+        </div>
+    }
+</div>

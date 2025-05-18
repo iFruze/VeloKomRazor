@@ -1,0 +1,74 @@
+﻿.advertisements {
+    display: flex; /* Расположение объявлений в строку */
+    gap: 20px; /* Отступ между объявлениями */
+    justify-content: center; /* Центрируем объявления */
+    align-items: flex-start; /* Выравнивание объявлений по верхнему краю */
+    flex-wrap: wrap; /* Позволяем объявлениям переноситься на новую строку при нехватке места */
+}
+
+.advertisement {
+    width: 250px; /* Ширина карточки */
+    height: 250px; /* Установленная высота карточки */
+    background-color: #f0f0f0; /* Светло-серый фон */
+    border-radius: 10px; /* Закруглённые углы */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Лёгкая тень */
+    overflow: hidden; /* Скрытие элементов, выходящих за границы */
+    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Анимация при наведении */
+}
+
+.advertisement:hover {
+    transform: scale(1.05); 
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2); 
+}
+
+.advertisement img {
+    width: 100%; 
+    height: 150px; 
+    object-fit: cover; 
+}
+
+.advertisement .info {
+    padding: 10px;
+}
+
+.advertisement .title {
+    display: block;
+    font-size: 16px;
+    font-weight: bold;
+    color: #333;
+    text-decoration: none;
+    text-align: left; 
+    margin-bottom: 5px;
+}
+
+.advertisement .title:hover {
+    color: #007acc; 
+}
+
+.advertisement .cost {
+    font-size: 14px;
+    font-weight: normal;
+    color: #666;
+    text-align: left;
+    display: inline-block; 
+    margin-right: 10px;
+}
+
+.advertisement form {
+    display: inline-block; 
+    float: right; 
+    margin-top: 15px;
+}
+
+.advertisement .gear {
+    background-color: transparent;   
+    border: none;  
+    cursor: pointer;
+    float:right;
+    margin-top: 15px;
+}
+
+.advertisement a img {
+    width: 20px; 
+    height: 20px;
+}

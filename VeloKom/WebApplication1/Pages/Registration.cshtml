@@ -1,0 +1,22 @@
+﻿@page
+@model VeloKom.Pages.RepisterationModel
+@{
+}
+<head>
+	<link rel="stylesheet" href="~/css/register.css"/>
+</head>
+<form method="post" class="registration-form">
+    <input name="login" type="text" placeholder="Логин" />
+    <input name="pass" type="password" placeholder="Пароль" />
+    <input name="secondPass" type="password" placeholder="Повторите пароль" />
+    <button type="submit">Зарегистрироваться</button>
+</form>
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="error-message">
+        @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+        {
+            <p>@error.ErrorMessage</p>
+        }
+    </div>
+}

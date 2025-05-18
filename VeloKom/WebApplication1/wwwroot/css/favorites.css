@@ -1,0 +1,26 @@
+﻿form{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+input{
+    margin-right: 10px;
+    border-radius: 5px;
+    padding: 5px;
+    border-style: solid;
+    border-color: gray;
+}
+.formBtn{
+    border-radius: 5px;
+    padding: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+    background-color: #4CAF50;
+    transition: 0.5s ease;
+    border: none;
+    font-family: Arial;
+    font-size: 14px;
+}
+.formBtn:hover{
+    background-color: forestgreen;
+}

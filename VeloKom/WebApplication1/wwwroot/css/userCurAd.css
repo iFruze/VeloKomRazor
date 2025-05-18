@@ -1,0 +1,73 @@
+﻿/* Стиль для общего контейнера */
+.cont {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+    margin: 20px;
+}
+
+/* Блок с картинкой и кнопкой */
+.img-btn {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* Выравнивание кнопки по левому краю */
+    max-width: 500px; /* Увеличение ширины блока */
+    margin-right: 50px;
+}
+
+/* Картинка товара */
+.img-btn img {
+    width: 100%; /* Картинка заполняет блок */
+    max-width: 500px; /* Ограничение максимальной ширины */
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+/* Кнопка сердечка */
+.img-btn form a {
+    margin-top: 10px;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.img-btn a img {
+    width: 30px;
+    height: 30px;
+}
+
+/* Блок с информацией о товаре */
+.bike-info {
+    flex: 1;
+    font-family: Arial, sans-serif;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Заголовок */
+.bike-info h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: #444;
+}
+
+/* Описание */
+.bike-info .desc {
+    font-size: 16px;
+    margin-bottom: 10px;
+    color: #666;
+}
+
+/* Цена */
+.bike-info .cost {
+    font-size: 20px;
+    font-weight: bold;
+    color: #2a9d8f;
+    margin-bottom: 10px;
+}
+
+/* Контакты */
+.bike-info .contacts {
+    font-size: 14px;
+    color: #888;
+}

@@ -1,0 +1,47 @@
+﻿@page
+@model VeloKom.Pages.IndexModel
+@{
+    ViewData["Title"] = "VeloKom";
+}
+<form method="get">
+    <div class="filters">
+        @foreach(var cat in IndexModel.categories){
+           <button name="cat" value="@cat.id">@cat.name</button>
+        }
+    </div>
+</form>
+<div class="advertisements">
+    @foreach (var ad in IndexModel.ads)
+    {
+        <div class="advertisement">
+            <img src="~/img/@ad.image" alt="Картинка" />
+            <div class="info">
+                <a class="title" asp-route-id="@ad.id" asp-page="/BikeInfo">@ad.title</a>
+                @if(ad.cost == 0){
+                    <p class="cost">Бесплатно</p>
+                }
+                else{
+                    <p class="cost">Цена: @Math.Round(ad.cost, 2) р.</p>
+                }
+                <form method="post">
+                    @if (IndexModel.user != null)
+                    {
+                        if (IndexModel.IsLiked(ad) == true)
+                        {
+                            <button name="like" value="@ad.id"><img src="~/img/fill_heart.png" /></button>
+                        }
+                        else
+                        {
+                            <button name="like" value="@ad.id"><img src="~/img/empty_heart.png" /></button>
+                        }
+                    }
+                    else
+                    {
+                        <button name="like" value="@ad.id"><img src="~/img/empty_heart.png" /></button>
+                    }
+                </form>
+            </div>
+        </div>
+    }
+</div>
+

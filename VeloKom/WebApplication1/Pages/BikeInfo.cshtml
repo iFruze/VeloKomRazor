@@ -1,0 +1,32 @@
+﻿@page
+@model VeloKom.Pages.BikeInfoModel
+@{
+    ViewData["Title"] = "VeloKom";
+}
+<head>
+    <link rel="stylesheet" href="~/css/bikeInfo.css"/>
+</head>
+<div class="cont">
+    <div class="img-btn">
+        <img src="~/img/@BikeInfoModel.currentAd.image" />
+        <form method="post">
+            @if(BikeInfoModel.currentUser != null){
+                if(BikeInfoModel.inLikes == true){
+                    <button name="like" value="@BikeInfoModel.currentAd.id"><img src="~/img/fill_heart.png" /></button>
+                }
+                else{
+                    <button name="like" value="@BikeInfoModel.currentAd.id"><img src="~/img/empty_heart.png" /></button>
+                }
+            }
+            else{
+                <button name="like" value="@BikeInfoModel.currentAd.id"><img src="~/img/empty_heart.png" /></button>
+            }
+        </form>
+    </div>
+    <div class="bike-info">
+        <h1>@BikeInfoModel.currentAd.title</h1>
+        <p class="desc">@BikeInfoModel.currentAd.description</p>
+        <p class="cost"> Цена: @BikeInfoModel.currentAd.cost р.</p>
+        <p class="contacts">Контакты: @BikeInfoModel.currentAd.contacts</p>
+    </div>
+</div>

@@ -1,0 +1,59 @@
+﻿.registration-form {
+    width: 100%;
+    max-width: 400px;
+    margin: 50px auto; /* Центровка по горизонтали */
+    padding: 20px;
+    background-color: #fdfdfd; /* Нежный светлый фон */
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Лёгкая тень для глубины */
+    display: flex;
+    flex-direction: column;
+    gap: 20px; /* Пространство между элементами */
+    justify-content: center; /* Центровка содержимого по вертикали */
+    align-items: center; /* Центровка содержимого по горизонтали */
+}
+
+.registration-form input {
+    width: 100%; /* Ширина инпутов соответствует ширине формы */
+    padding: 12px 15px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.registration-form input:focus {
+    border-color: #007bff; /* Синий цвет фокуса */
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); /* Подсветка при фокусе */
+}
+
+.registration-form button {
+    width: 100%; /* Ширина кнопки соответствует ширине формы */
+    padding: 12px 15px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #4CAF50; /* Зелёный цвет кнопки */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.registration-form button:hover {
+    background-color: forestgreen; /* Более тёмный зелёный при наведении */
+}
+
+.registration-form input::placeholder {
+    color: #999; /* Светлый текст placeholder */
+}
+
+.error-message {
+    color: #ff0000;
+    background-color: #f9d6d5;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    font-size: 14px;
+}

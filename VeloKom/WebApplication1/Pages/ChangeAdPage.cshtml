@@ -1,0 +1,55 @@
+﻿@page
+@model VeloKom.Pages.ChangeAdPageModel
+@{
+}
+
+<head>
+    <link rel="stylesheet" href="~/css/changeAdver.css" />
+</head>
+<div class="cont">
+    <div class="image-preview">
+        <img id="imagePreview" src="@Model.ImagePath" alt="Предпросмотр изображения" style="display: @(string.IsNullOrEmpty(Model.ImagePath) ? "none" : "block")" />
+    </div>
+
+    <div class="form-section">
+        <form method="post" enctype="multipart/form-data">
+            <input name="img" type="file" accept="image/*" onchange="previewImage(event)"/>
+            <input value="@Model.Title" name="title" type="text" placeholder="Название" required />
+            <textarea name="description" placeholder="Описание" required>@Model.Description</textarea>
+            <select name="selectedCatId" required>
+                @foreach (var cat in ChangeAdPageModel.categories)
+                {
+                    @: <option value="@cat.id" @((cat.id == Model.SelectedCatId) ? "selected" : "")>@cat.name</option>
+                }
+            </select>
+            <input name="cost" type="number" value="@Model.Cost" placeholder="Цена" step="0.01" min="0" required />
+            <input name="contact" type="text" value="@Model.Contact" placeholder="Номер телефона" required />
+            <div class="buttons">
+                <button name="action" value="saveAd" type="submit">Сохранить</button>
+                <button name="action" value="delAd" type="submit">Удалить</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+
+@if (TempData["Message"] != null)
+{
+    <script>
+        alert('Объявление успешно обновлено');
+    </script>
+}
+<script>
+    function previewImage(event) {
+        const file = event.target.files[0];
+        if (file) {
+            const reader = new FileReader();
+            reader.onload = function (e) {
+                const imagePreview = document.getElementById("imagePreview");
+                imagePreview.src = e.target.result;
+                imagePreview.style.display = "block";
+            };
+            reader.readAsDataURL(file);
+        }
+    }
+</script>

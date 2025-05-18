@@ -1,0 +1,513 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\VeloKom.bundle.scp.css",
+      "PackagePath": "staticwebassets\\VeloKom.e2y3ui4jv3.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\css\\addAdver.css",
+      "PackagePath": "staticwebassets\\css\\addAdver.css"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\css\\auth.css",
+      "PackagePath": "staticwebassets\\css\\auth.css"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\css\\bikeInfo.css",
+      "PackagePath": "staticwebassets\\css\\bikeInfo.css"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\css\\changeAdver.css",
+      "PackagePath": "staticwebassets\\css\\changeAdver.css"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\css\\favorites.css",
+      "PackagePath": "staticwebassets\\css\\favorites.css"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\css\\profile.css",
+      "PackagePath": "staticwebassets\\css\\profile.css"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\css\\register.css",
+      "PackagePath": "staticwebassets\\css\\register.css"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\css\\userAdvers.css",
+      "PackagePath": "staticwebassets\\css\\userAdvers.css"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\css\\userCurAd.css",
+      "PackagePath": "staticwebassets\\css\\userCurAd.css"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\008ec430-ee65-473f-90f0-1b2f748b7d5e_cube.jpg",
+      "PackagePath": "staticwebassets\\img\\008ec430-ee65-473f-90f0-1b2f748b7d5e_cube.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\00df5259-1724-4950-a7f4-76d89dbbd637_fewfw.jpg",
+      "PackagePath": "staticwebassets\\img\\00df5259-1724-4950-a7f4-76d89dbbd637_fewfw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\10c4d3ab-91d1-45ad-be79-7a0552d93392_home.png",
+      "PackagePath": "staticwebassets\\img\\10c4d3ab-91d1-45ad-be79-7a0552d93392_home.png"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\1382fe0f-43b5-408f-a4f3-3697883e739f_fewfw.jpg",
+      "PackagePath": "staticwebassets\\img\\1382fe0f-43b5-408f-a4f3-3697883e739f_fewfw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\194db07d-7105-459d-b5f3-8f5b5a97b8ae_fewfw.jpg",
+      "PackagePath": "staticwebassets\\img\\194db07d-7105-459d-b5f3-8f5b5a97b8ae_fewfw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\19a18d86-7e89-423a-b070-ccc9647cb0fc_fewfw.jpg",
+      "PackagePath": "staticwebassets\\img\\19a18d86-7e89-423a-b070-ccc9647cb0fc_fewfw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\1a82824f-0dce-429b-b39a-91fec41f37ca_fewfw.jpg",
+      "PackagePath": "staticwebassets\\img\\1a82824f-0dce-429b-b39a-91fec41f37ca_fewfw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\1c1593da-ec4d-49f7-870a-57a421444ce7_fewfw.jpg",
+      "PackagePath": "staticwebassets\\img\\1c1593da-ec4d-49f7-870a-57a421444ce7_fewfw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\1c641863-bbba-4043-b3a3-0625ba3c9515_fewfw.jpg",
+      "PackagePath": "staticwebassets\\img\\1c641863-bbba-4043-b3a3-0625ba3c9515_fewfw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\1fa32b7d-68e8-4f1f-ab83-2ce5e3e2e7e7_fewfw.jpg",
+      "PackagePath": "staticwebassets\\img\\1fa32b7d-68e8-4f1f-ab83-2ce5e3e2e7e7_fewfw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\2922956c-7d96-4947-9bbc-deb920e7eca7_cube.jpg",
+      "PackagePath": "staticwebassets\\img\\2922956c-7d96-4947-9bbc-deb920e7eca7_cube.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\29c2c665-21a9-4f88-b0da-1aca18ae6e14_fewfw.jpg",
+      "PackagePath": "staticwebassets\\img\\29c2c665-21a9-4f88-b0da-1aca18ae6e14_fewfw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\2f8c16cf-2881-4a25-8855-2ed662c3a41b_fewfw.jpg",
+      "PackagePath": "staticwebassets\\img\\2f8c16cf-2881-4a25-8855-2ed662c3a41b_fewfw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\3432010b-f2b2-4733-b026-a95b7719ea6c_home.png",
+      "PackagePath": "staticwebassets\\img\\3432010b-f2b2-4733-b026-a95b7719ea6c_home.png"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\496c9bb1-2dea-46ca-abf8-953706709c98_fewfw.jpg",
+      "PackagePath": "staticwebassets\\img\\496c9bb1-2dea-46ca-abf8-953706709c98_fewfw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\4a031d43-a632-4d5f-bb2e-c52bcf307a06_fewfw.jpg",
+      "PackagePath": "staticwebassets\\img\\4a031d43-a632-4d5f-bb2e-c52bcf307a06_fewfw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\536d310b-7ae4-42c1-97d7-83f9f1574355_cube.jpg",
+      "PackagePath": "staticwebassets\\img\\536d310b-7ae4-42c1-97d7-83f9f1574355_cube.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\5c1132d4-65f5-4436-a904-c6eafcc3ba2d_fewfw.jpg",
+      "PackagePath": "staticwebassets\\img\\5c1132d4-65f5-4436-a904-c6eafcc3ba2d_fewfw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\65df7590-d03f-47d0-999e-b384cdeb1c40_fewfw.jpg",
+      "PackagePath": "staticwebassets\\img\\65df7590-d03f-47d0-999e-b384cdeb1c40_fewfw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\6cd0dfcb-c218-4579-ba92-1b46538541c3_fewfw.jpg",
+      "PackagePath": "staticwebassets\\img\\6cd0dfcb-c218-4579-ba92-1b46538541c3_fewfw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\71b775a8-48d0-4fc2-9307-b3ab26ff626d_fewfw.jpg",
+      "PackagePath": "staticwebassets\\img\\71b775a8-48d0-4fc2-9307-b3ab26ff626d_fewfw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\797c3c1a-34ba-4d31-a5fb-aea6a861098b_cube.jpg",
+      "PackagePath": "staticwebassets\\img\\797c3c1a-34ba-4d31-a5fb-aea6a861098b_cube.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\7de1dc90-9261-45a6-b595-1a27fc69e660_fewfw.jpg",
+      "PackagePath": "staticwebassets\\img\\7de1dc90-9261-45a6-b595-1a27fc69e660_fewfw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\7ea79dc9-3f32-441f-83ae-cd533fc7e5c2_fewfw.jpg",
+      "PackagePath": "staticwebassets\\img\\7ea79dc9-3f32-441f-83ae-cd533fc7e5c2_fewfw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\88e559e5-215d-4fda-a864-0051f8b5d8da_gravel.jpg",
+      "PackagePath": "staticwebassets\\img\\88e559e5-215d-4fda-a864-0051f8b5d8da_gravel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\95e2e30d-5682-4c8b-ad6e-a084ba2b17ce_fewfw.jpg",
+      "PackagePath": "staticwebassets\\img\\95e2e30d-5682-4c8b-ad6e-a084ba2b17ce_fewfw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\9b85310e-612c-4c8d-94af-33afa050c522_cube.jpg",
+      "PackagePath": "staticwebassets\\img\\9b85310e-612c-4c8d-94af-33afa050c522_cube.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\9fa60095-a860-4a34-9525-b96b575e47fa_чиловый парень.jpg",
+      "PackagePath": "staticwebassets\\img\\9fa60095-a860-4a34-9525-b96b575e47fa_чиловый парень.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\a3a734b7-4f86-4773-a413-d764d27aac74_fewfw.jpg",
+      "PackagePath": "staticwebassets\\img\\a3a734b7-4f86-4773-a413-d764d27aac74_fewfw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\ac01c979-8ebe-4cb1-a6e4-8a337a53363d_cube.jpg",
+      "PackagePath": "staticwebassets\\img\\ac01c979-8ebe-4cb1-a6e4-8a337a53363d_cube.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\ae311313-7985-4aaf-97ed-c536fb8dfcfd_cube.jpg",
+      "PackagePath": "staticwebassets\\img\\ae311313-7985-4aaf-97ed-c536fb8dfcfd_cube.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\bdd86865-e69f-4dd7-9998-5efd51ed98e2_home.png",
+      "PackagePath": "staticwebassets\\img\\bdd86865-e69f-4dd7-9998-5efd51ed98e2_home.png"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\c1348237-a371-4908-80ba-60c4b52cd7de_cube.jpg",
+      "PackagePath": "staticwebassets\\img\\c1348237-a371-4908-80ba-60c4b52cd7de_cube.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\c21b976c-33e1-4aa4-9b0a-d28ff3e40423_fewfw.jpg",
+      "PackagePath": "staticwebassets\\img\\c21b976c-33e1-4aa4-9b0a-d28ff3e40423_fewfw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\c5ffc96d-f11b-408c-b581-e798d7e6bbea_cube.jpg",
+      "PackagePath": "staticwebassets\\img\\c5ffc96d-f11b-408c-b581-e798d7e6bbea_cube.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\cbe6cb0d-0de9-49f7-b2da-82c369456c2d_cube.jpg",
+      "PackagePath": "staticwebassets\\img\\cbe6cb0d-0de9-49f7-b2da-82c369456c2d_cube.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\child_bike.jpg",
+      "PackagePath": "staticwebassets\\img\\child_bike.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\city_bike.jpg",
+      "PackagePath": "staticwebassets\\img\\city_bike.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\cube.jpg",
+      "PackagePath": "staticwebassets\\img\\cube.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\e23fed81-2adb-4636-b661-c759cdd726ce_fewfw.jpg",
+      "PackagePath": "staticwebassets\\img\\e23fed81-2adb-4636-b661-c759cdd726ce_fewfw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\empty_heart.png",
+      "PackagePath": "staticwebassets\\img\\empty_heart.png"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\fc8456f2-2dd7-4bd5-a670-d054d3fc6be9_cube.jpg",
+      "PackagePath": "staticwebassets\\img\\fc8456f2-2dd7-4bd5-a670-d054d3fc6be9_cube.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\fewfw.jpg",
+      "PackagePath": "staticwebassets\\img\\fewfw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\ff82b966-0146-42f7-b8fc-36a3d7e8dad7_fewfw.jpg",
+      "PackagePath": "staticwebassets\\img\\ff82b966-0146-42f7-b8fc-36a3d7e8dad7_fewfw.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\fill_heart.png",
+      "PackagePath": "staticwebassets\\img\\fill_heart.png"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\fixed gear concept.jpg",
+      "PackagePath": "staticwebassets\\img\\fixed gear concept.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\gear.png",
+      "PackagePath": "staticwebassets\\img\\gear.png"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\gravel.jpg",
+      "PackagePath": "staticwebassets\\img\\gravel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\home.png",
+      "PackagePath": "staticwebassets\\img\\home.png"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\img\\user_img.png",
+      "PackagePath": "staticwebassets\\img\\user_img.png"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.VeloKom.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.VeloKom.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.VeloKom.props",
+      "PackagePath": "build\\VeloKom.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.VeloKom.props",
+      "PackagePath": "buildMultiTargeting\\VeloKom.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.VeloKom.props",
+      "PackagePath": "buildTransitive\\VeloKom.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
