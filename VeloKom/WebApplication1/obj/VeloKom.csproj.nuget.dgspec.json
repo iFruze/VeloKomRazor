@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\VeloKom.csproj": {}
+    "C:\\Users\\iFruze\\Desktop\\VeloKomRazor\\VeloKom\\WebApplication1\\VeloKom.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\VeloKom.csproj": {
+    "C:\\Users\\iFruze\\Desktop\\VeloKomRazor\\VeloKom\\WebApplication1\\VeloKom.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\VeloKom.csproj",
+        "projectUniqueName": "C:\\Users\\iFruze\\Desktop\\VeloKomRazor\\VeloKom\\WebApplication1\\VeloKom.csproj",
         "projectName": "VeloKom",
-        "projectPath": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\VeloKom.csproj",
+        "projectPath": "C:\\Users\\iFruze\\Desktop\\VeloKomRazor\\VeloKom\\WebApplication1\\VeloKom.csproj",
         "packagesPath": "C:\\Users\\iFruze\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\obj\\",
+        "outputPath": "C:\\Users\\iFruze\\Desktop\\VeloKomRazor\\VeloKom\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

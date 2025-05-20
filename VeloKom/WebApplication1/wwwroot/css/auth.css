@@ -68,8 +68,16 @@
     font-size: 14px;
 }
 
+.adminRef{
+    position: absolute;
+    right: 1%;
+    top: 100px;
+}
+.adminRef img{
+    width: 40px;
+}
 
 
-
-
-
+h1{
+    text-align: center;
+}

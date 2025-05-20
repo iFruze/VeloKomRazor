@@ -1,0 +1,32 @@
+﻿@page
+@model VeloKom.Pages.ModerationAdModel
+@{
+}
+
+<link rel="stylesheet" href="~/css/moderAd.css"/>
+
+<div class="ad">
+	<form method="post">
+        <div class="image">
+            <img src="~/img/@ModerationAdModel.ad.image" />
+        </div>
+        <div class="bike-info">
+            <h1>@ModerationAdModel.ad.title</h1>
+            <p class="desc">@ModerationAdModel.ad.description</p>
+            <p class="cost"> Цена: @ModerationAdModel.ad.cost р.</p>
+            <p class="contacts">Контакты: @ModerationAdModel.ad.contacts</p>
+            <p class="author">Создатель: @ModerationAdModel.GetUserById(ModerationAdModel.ad.userId)</p>
+            <button name="button" type="submit" onclick="add();" value="plus">Одобрить</button>
+            <button name="button" type="submit" onclick="minus();" value="minus">Отказать</button>
+        </div>
+	</form>
+</div>
+
+<script>
+	function add(){
+		alert('Одобрено в модерации');
+	}
+	function minus(){
+		alert('Отказано в модерации.');
+	}
+</script>

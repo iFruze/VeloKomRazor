@@ -1,66 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\iFruze\\Desktop\\VeloKom\\",
+  "WorkspaceRootPath": "C:\\Users\\iFruze\\Desktop\\VeloKomRazor\\VeloKom\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A038676-7D8E-46B1-96DD-87DA52C290DA}|WebApplication1\\VeloKom.csproj|c:\\users\\ifruze\\desktop\\velokom\\webapplication1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A038676-7D8E-46B1-96DD-87DA52C290DA}|WebApplication1\\VeloKom.csproj|solutionrelative:webapplication1\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A038676-7D8E-46B1-96DD-87DA52C290DA}|WebApplication1\\VeloKom.csproj|c:\\users\\ifruze\\desktop\\velokomrazor\\velokom\\webapplication1\\wwwroot\\css\\moderad.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5A038676-7D8E-46B1-96DD-87DA52C290DA}|WebApplication1\\VeloKom.csproj|solutionrelative:webapplication1\\wwwroot\\css\\moderad.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A038676-7D8E-46B1-96DD-87DA52C290DA}|WebApplication1\\VeloKom.csproj|c:\\users\\ifruze\\desktop\\velokom\\webapplication1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5A038676-7D8E-46B1-96DD-87DA52C290DA}|WebApplication1\\VeloKom.csproj|solutionrelative:webapplication1\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5A038676-7D8E-46B1-96DD-87DA52C290DA}|WebApplication1\\VeloKom.csproj|c:\\users\\ifruze\\desktop\\velokomrazor\\velokom\\webapplication1\\pages\\moderationad.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A038676-7D8E-46B1-96DD-87DA52C290DA}|WebApplication1\\VeloKom.csproj|solutionrelative:webapplication1\\pages\\moderationad.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A038676-7D8E-46B1-96DD-87DA52C290DA}|WebApplication1\\VeloKom.csproj|c:\\users\\ifruze\\desktop\\velokom\\webapplication1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5A038676-7D8E-46B1-96DD-87DA52C290DA}|WebApplication1\\VeloKom.csproj|solutionrelative:webapplication1\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5A038676-7D8E-46B1-96DD-87DA52C290DA}|WebApplication1\\VeloKom.csproj|c:\\users\\ifruze\\desktop\\velokomrazor\\velokom\\webapplication1\\pages\\moderation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A038676-7D8E-46B1-96DD-87DA52C290DA}|WebApplication1\\VeloKom.csproj|solutionrelative:webapplication1\\pages\\moderation.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A038676-7D8E-46B1-96DD-87DA52C290DA}|WebApplication1\\VeloKom.csproj|c:\\users\\ifruze\\desktop\\velokom\\webapplication1\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A038676-7D8E-46B1-96DD-87DA52C290DA}|WebApplication1\\VeloKom.csproj|solutionrelative:webapplication1\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A038676-7D8E-46B1-96DD-87DA52C290DA}|WebApplication1\\VeloKom.csproj|c:\\users\\ifruze\\desktop\\velokom\\webapplication1\\wwwroot\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{5A038676-7D8E-46B1-96DD-87DA52C290DA}|WebApplication1\\VeloKom.csproj|solutionrelative:webapplication1\\wwwroot\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A038676-7D8E-46B1-96DD-87DA52C290DA}|WebApplication1\\VeloKom.csproj|c:\\users\\ifruze\\desktop\\velokom\\webapplication1\\pages\\addadver.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A038676-7D8E-46B1-96DD-87DA52C290DA}|WebApplication1\\VeloKom.csproj|solutionrelative:webapplication1\\pages\\addadver.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A038676-7D8E-46B1-96DD-87DA52C290DA}|WebApplication1\\VeloKom.csproj|c:\\users\\ifruze\\desktop\\velokom\\webapplication1\\pages\\changeadpage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A038676-7D8E-46B1-96DD-87DA52C290DA}|WebApplication1\\VeloKom.csproj|solutionrelative:webapplication1\\pages\\changeadpage.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A038676-7D8E-46B1-96DD-87DA52C290DA}|WebApplication1\\VeloKom.csproj|c:\\users\\ifruze\\desktop\\velokom\\webapplication1\\pages\\changeadpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5A038676-7D8E-46B1-96DD-87DA52C290DA}|WebApplication1\\VeloKom.csproj|solutionrelative:webapplication1\\pages\\changeadpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A038676-7D8E-46B1-96DD-87DA52C290DA}|WebApplication1\\VeloKom.csproj|c:\\users\\ifruze\\desktop\\velokom\\webapplication1\\pages\\addadver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5A038676-7D8E-46B1-96DD-87DA52C290DA}|WebApplication1\\VeloKom.csproj|solutionrelative:webapplication1\\pages\\addadver.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A038676-7D8E-46B1-96DD-87DA52C290DA}|WebApplication1\\VeloKom.csproj|c:\\users\\ifruze\\desktop\\velokom\\webapplication1\\pages\\registration.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A038676-7D8E-46B1-96DD-87DA52C290DA}|WebApplication1\\VeloKom.csproj|solutionrelative:webapplication1\\pages\\registration.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A038676-7D8E-46B1-96DD-87DA52C290DA}|WebApplication1\\VeloKom.csproj|c:\\users\\ifruze\\desktop\\velokom\\webapplication1\\pages\\auth.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A038676-7D8E-46B1-96DD-87DA52C290DA}|WebApplication1\\VeloKom.csproj|solutionrelative:webapplication1\\pages\\auth.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A038676-7D8E-46B1-96DD-87DA52C290DA}|WebApplication1\\VeloKom.csproj|c:\\users\\ifruze\\desktop\\velokom\\webapplication1\\pages\\usercurrentad.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A038676-7D8E-46B1-96DD-87DA52C290DA}|WebApplication1\\VeloKom.csproj|solutionrelative:webapplication1\\pages\\usercurrentad.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A038676-7D8E-46B1-96DD-87DA52C290DA}|WebApplication1\\VeloKom.csproj|c:\\users\\ifruze\\desktop\\velokom\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A038676-7D8E-46B1-96DD-87DA52C290DA}|WebApplication1\\VeloKom.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A038676-7D8E-46B1-96DD-87DA52C290DA}|WebApplication1\\VeloKom.csproj|c:\\users\\ifruze\\desktop\\velokom\\webapplication1\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A038676-7D8E-46B1-96DD-87DA52C290DA}|WebApplication1\\VeloKom.csproj|solutionrelative:webapplication1\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A038676-7D8E-46B1-96DD-87DA52C290DA}|WebApplication1\\VeloKom.csproj|c:\\users\\ifruze\\desktop\\velokom\\webapplication1\\pages\\bikeinfo.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A038676-7D8E-46B1-96DD-87DA52C290DA}|WebApplication1\\VeloKom.csproj|solutionrelative:webapplication1\\pages\\bikeinfo.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5A038676-7D8E-46B1-96DD-87DA52C290DA}|WebApplication1\\VeloKom.csproj|c:\\users\\ifruze\\desktop\\velokomrazor\\velokom\\webapplication1\\pages\\bikeinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A038676-7D8E-46B1-96DD-87DA52C290DA}|WebApplication1\\VeloKom.csproj|solutionrelative:webapplication1\\pages\\bikeinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,184 +34,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\Pages\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\Pages\\Index.cshtml.cs",
-              "RelativeToolTip": "WebApplication1\\Pages\\Index.cshtml.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAkwD0AAAAwAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Moderation.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\iFruze\\Desktop\\VeloKomRazor\\VeloKom\\WebApplication1\\Pages\\Moderation.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Moderation.cshtml.cs",
+              "ToolTip": "C:\\Users\\iFruze\\Desktop\\VeloKomRazor\\VeloKom\\WebApplication1\\Pages\\Moderation.cshtml.cs",
+              "RelativeToolTip": "WebApplication1\\Pages\\Moderation.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T16:47:26.989Z",
+              "WhenOpened": "2025-05-19T17:40:47.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BikeInfo.cshtml",
+              "DocumentMoniker": "C:\\Users\\iFruze\\Desktop\\VeloKomRazor\\VeloKom\\WebApplication1\\Pages\\BikeInfo.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\BikeInfo.cshtml",
+              "ToolTip": "C:\\Users\\iFruze\\Desktop\\VeloKomRazor\\VeloKom\\WebApplication1\\Pages\\BikeInfo.cshtml",
+              "RelativeToolTip": "WebApplication1\\Pages\\BikeInfo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T17:39:03.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "moderAd.css",
+              "DocumentMoniker": "C:\\Users\\iFruze\\Desktop\\VeloKomRazor\\VeloKom\\WebApplication1\\wwwroot\\css\\moderAd.css",
+              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\moderAd.css",
+              "ToolTip": "C:\\Users\\iFruze\\Desktop\\VeloKomRazor\\VeloKom\\WebApplication1\\wwwroot\\css\\moderAd.css",
+              "RelativeToolTip": "WebApplication1\\wwwroot\\css\\moderAd.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-19T17:30:51.894Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\Pages\\Index.cshtml",
-              "RelativeToolTip": "WebApplication1\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAVAAAAAAAAAA==",
+              "Title": "ModerationAd.cshtml",
+              "DocumentMoniker": "C:\\Users\\iFruze\\Desktop\\VeloKomRazor\\VeloKom\\WebApplication1\\Pages\\ModerationAd.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Pages\\ModerationAd.cshtml",
+              "ToolTip": "C:\\Users\\iFruze\\Desktop\\VeloKomRazor\\VeloKom\\WebApplication1\\Pages\\ModerationAd.cshtml",
+              "RelativeToolTip": "WebApplication1\\Pages\\ModerationAd.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-10T16:47:08.473Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Database.cs",
-              "DocumentMoniker": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\Database.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Database.cs",
-              "ToolTip": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\Database.cs",
-              "RelativeToolTip": "WebApplication1\\Database.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T16:22:36.27Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebApplication1\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-10T15:37:51.131Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "main.css",
-              "DocumentMoniker": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\css\\main.css",
-              "RelativeDocumentMoniker": "WebApplication1\\wwwroot\\css\\main.css",
-              "ToolTip": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\wwwroot\\css\\main.css",
-              "RelativeToolTip": "WebApplication1\\wwwroot\\css\\main.css",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACgAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-08T09:17:17.459Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AddAdver.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\Pages\\AddAdver.cshtml.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Pages\\AddAdver.cshtml.cs",
-              "ToolTip": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\Pages\\AddAdver.cshtml.cs",
-              "RelativeToolTip": "WebApplication1\\Pages\\AddAdver.cshtml.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAIwF8AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T07:57:47.961Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AddAdver.cshtml",
-              "DocumentMoniker": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\Pages\\AddAdver.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Pages\\AddAdver.cshtml",
-              "ToolTip": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\Pages\\AddAdver.cshtml",
-              "RelativeToolTip": "WebApplication1\\Pages\\AddAdver.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-12T07:57:34.503Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Registration.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\Pages\\Registration.cshtml.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Registration.cshtml.cs",
-              "ToolTip": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\Pages\\Registration.cshtml.cs",
-              "RelativeToolTip": "WebApplication1\\Pages\\Registration.cshtml.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T07:57:22.673Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Auth.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\Pages\\Auth.cshtml.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Pages\\Auth.cshtml.cs",
-              "ToolTip": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\Pages\\Auth.cshtml.cs",
-              "RelativeToolTip": "WebApplication1\\Pages\\Auth.cshtml.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T07:56:59.791Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "BikeInfo.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\Pages\\BikeInfo.cshtml.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Pages\\BikeInfo.cshtml.cs",
-              "ToolTip": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\Pages\\BikeInfo.cshtml.cs",
-              "RelativeToolTip": "WebApplication1\\Pages\\BikeInfo.cshtml.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T07:14:39.657Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
-              "ToolTip": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\Program.cs",
-              "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T06:35:45.485Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Users.cs",
-              "DocumentMoniker": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\Users.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Users.cs",
-              "ToolTip": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\Users.cs",
-              "RelativeToolTip": "WebApplication1\\Users.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T06:35:41.551Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ChangeAdPage.cshtml",
-              "DocumentMoniker": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\Pages\\ChangeAdPage.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Pages\\ChangeAdPage.cshtml",
-              "ToolTip": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\Pages\\ChangeAdPage.cshtml",
-              "RelativeToolTip": "WebApplication1\\Pages\\ChangeAdPage.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAIBJwCIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-07T09:27:26.371Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ChangeAdPage.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\Pages\\ChangeAdPage.cshtml.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Pages\\ChangeAdPage.cshtml.cs",
-              "ToolTip": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\Pages\\ChangeAdPage.cshtml.cs",
-              "RelativeToolTip": "WebApplication1\\Pages\\ChangeAdPage.cshtml.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAIwHwAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T09:27:27.3Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UserCurrentAd.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\Pages\\UserCurrentAd.cshtml.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Pages\\UserCurrentAd.cshtml.cs",
-              "ToolTip": "C:\\Users\\iFruze\\Desktop\\VeloKom\\WebApplication1\\Pages\\UserCurrentAd.cshtml.cs",
-              "RelativeToolTip": "WebApplication1\\Pages\\UserCurrentAd.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T09:12:40.341Z"
+              "WhenOpened": "2025-05-19T15:44:26.892Z"
             }
           ]
         }

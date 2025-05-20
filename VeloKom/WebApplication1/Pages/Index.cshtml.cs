@@ -12,6 +12,8 @@ namespace VeloKom.Pages
         public IndexModel(ILogger<IndexModel> logger)
         {
             var context = new Database();
+            
+
             _logger = logger;
             categories = context.Categories.ToList();
             ads = context.Ads.ToList();
@@ -20,6 +22,7 @@ namespace VeloKom.Pages
         {
             using (var context = new Database())
             {
+                
                 var token = JWT.GetToken(Request);
                 if (token != null)
                 {

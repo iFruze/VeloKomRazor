@@ -1,0 +1,91 @@
+﻿form {
+    display: flex;
+    justify-content: space-between; /* Картинка слева, информация справа */
+    align-items: flex-start;
+    gap: 20px;
+    margin: 20px;
+}
+
+.image {
+    max-width: 500px;
+    margin-right: 50px;
+}
+
+    .image img {
+        width: 100%;
+        max-width: 500px;
+        border-radius: 10px;
+    }
+
+.bike-info {
+    flex: 1;
+    font-family: Arial, sans-serif;
+    color: #333;
+    line-height: 1.6;
+    text-align: left;
+}
+
+    /* Заголовок */
+    .bike-info h1 {
+        font-size: 24px;
+        margin-bottom: 10px;
+        color: #444;
+    }
+
+    /* Описание */
+    .bike-info .desc {
+        font-size: 16px;
+        margin-bottom: 10px;
+        color: #666;
+    }
+
+    /* Цена */
+    .bike-info .cost {
+        font-size: 20px;
+        font-weight: bold;
+        color: #2a9d8f;
+        margin-bottom: 10px;
+    }
+
+    /* Контакты */
+    .bike-info .contacts {
+        font-size: 14px;
+        color: #888;
+    }
+
+    /* Автор объявления */
+    .bike-info .author {
+        font-size: 12px;
+        color: #555;
+        margin-top: 20px;
+    }
+
+/* Кнопки одобрения и отказа */
+button {
+    margin-top: 10px;
+    padding: 10px 15px;
+    font-size: 14px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+    button[name="button"][value="plus"] {
+        background-color: #4CAF50;
+        color: white;
+    }
+
+        button[name="button"][value="plus"]:hover {
+            background-color: #45a049;
+        }
+
+    button[name="button"][value="minus"] {
+        background-color: #FF5722;
+        color: white;
+    }
+
+        button[name="button"][value="minus"]:hover {
+            background-color: #E64A19;
+        }

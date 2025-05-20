@@ -1,0 +1,28 @@
+﻿@page
+@model VeloKom.Pages.ModerationModel
+@{
+}
+<link rel="stylesheet" href="~/css/moder.css"/>
+<form method="post">
+    <button type="submit" name="exit">Вернуться в панель</button>
+</form>
+<div class="advertisements">
+    @foreach (var ad in ModerationModel.ads)
+    {
+        <div class="advertisement">
+            <img src="~/img/@ad.image" alt="Картинка" />
+            <div class="info">
+                <a class="title" asp-route-id="@ad.id" asp-page="/ModerationAd">@ad.title</a>
+                @if (ad.cost == 0)
+                {
+                    <p class="cost">Бесплатно</p>
+                }
+                else
+                {
+                    <p class="cost">Цена: @Math.Round(ad.cost, 2) р.</p>
+                }
+                <p class="author">Создатель: @ModerationModel.GetUserById(ad.userId)</p>
+            </div>
+        </div>
+    }
+</div>

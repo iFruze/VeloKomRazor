@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VeloKom")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce1754b754a8a1f17dbab140745858039c886370")]
 [assembly: System.Reflection.AssemblyProductAttribute("VeloKom")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VeloKom")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
