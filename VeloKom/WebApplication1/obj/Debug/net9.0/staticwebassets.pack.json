@@ -69,6 +69,14 @@
       "PackagePath": "staticwebassets\\img\\00df5259-1724-4950-a7f4-76d89dbbd637_fewfw.jpg"
     },
     {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKomRazor\\VeloKom\\WebApplication1\\wwwroot\\img\\01377ba0-c2fe-450f-811f-9fce4d3bafea_обои2.jpg",
+      "PackagePath": "staticwebassets\\img\\01377ba0-c2fe-450f-811f-9fce4d3bafea_обои2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKomRazor\\VeloKom\\WebApplication1\\wwwroot\\img\\02502adc-d148-43f2-8f6e-a6e6580ea820_обои1.jpg",
+      "PackagePath": "staticwebassets\\img\\02502adc-d148-43f2-8f6e-a6e6580ea820_обои1.jpg"
+    },
+    {
       "Id": "C:\\Users\\iFruze\\Desktop\\VeloKomRazor\\VeloKom\\WebApplication1\\wwwroot\\img\\10c4d3ab-91d1-45ad-be79-7a0552d93392_home.png",
       "PackagePath": "staticwebassets\\img\\10c4d3ab-91d1-45ad-be79-7a0552d93392_home.png"
     },
@@ -223,6 +231,10 @@
     {
       "Id": "C:\\Users\\iFruze\\Desktop\\VeloKomRazor\\VeloKom\\WebApplication1\\wwwroot\\img\\empty_heart.png",
       "PackagePath": "staticwebassets\\img\\empty_heart.png"
+    },
+    {
+      "Id": "C:\\Users\\iFruze\\Desktop\\VeloKomRazor\\VeloKom\\WebApplication1\\wwwroot\\img\\f610b4bc-fbe0-455f-8eba-f77e5c43feea_обои1.jpg",
+      "PackagePath": "staticwebassets\\img\\f610b4bc-fbe0-455f-8eba-f77e5c43feea_обои1.jpg"
     },
     {
       "Id": "C:\\Users\\iFruze\\Desktop\\VeloKomRazor\\VeloKom\\WebApplication1\\wwwroot\\img\\fc8456f2-2dd7-4bd5-a670-d054d3fc6be9_cube.jpg",

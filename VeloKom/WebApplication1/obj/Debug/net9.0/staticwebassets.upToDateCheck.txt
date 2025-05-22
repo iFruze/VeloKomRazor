@@ -87,6 +87,8 @@ wwwroot\css\userCurAd.css
 wwwroot\favicon.ico
 wwwroot\img\008ec430-ee65-473f-90f0-1b2f748b7d5e_cube.jpg
 wwwroot\img\00df5259-1724-4950-a7f4-76d89dbbd637_fewfw.jpg
+wwwroot\img\01377ba0-c2fe-450f-811f-9fce4d3bafea_обои2.jpg
+wwwroot\img\02502adc-d148-43f2-8f6e-a6e6580ea820_обои1.jpg
 wwwroot\img\10c4d3ab-91d1-45ad-be79-7a0552d93392_home.png
 wwwroot\img\1382fe0f-43b5-408f-a4f3-3697883e739f_fewfw.jpg
 wwwroot\img\194db07d-7105-459d-b5f3-8f5b5a97b8ae_fewfw.jpg
@@ -126,6 +128,7 @@ wwwroot\img\city_bike.jpg
 wwwroot\img\cube.jpg
 wwwroot\img\e23fed81-2adb-4636-b661-c759cdd726ce_fewfw.jpg
 wwwroot\img\empty_heart.png
+wwwroot\img\f610b4bc-fbe0-455f-8eba-f77e5c43feea_обои1.jpg
 wwwroot\img\fc8456f2-2dd7-4bd5-a670-d054d3fc6be9_cube.jpg
 wwwroot\img\fewfw.jpg
 wwwroot\img\ff82b966-0146-42f7-b8fc-36a3d7e8dad7_fewfw.jpg

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "H4MXxCMWF1s4FXh0sgVLCXN3gNcHFLdZj4rPlJ/R5a0=",
+  "Hash": "ztpDpBfhD98y67qHLBg9RCsEVfYNgHEvqgxoMPZBRug=",
   "Source": "VeloKom",
   "BasePath": "_content/VeloKom",
   "Mode": "Default",
@@ -1970,6 +1970,48 @@
       "OriginalItemSpec": "wwwroot\\img\\00df5259-1724-4950-a7f4-76d89dbbd637_fewfw.jpg"
     },
     {
+      "Identity": "C:\\Users\\iFruze\\Desktop\\VeloKomRazor\\VeloKom\\WebApplication1\\wwwroot\\img\\01377ba0-c2fe-450f-811f-9fce4d3bafea_обои2.jpg",
+      "SourceId": "VeloKom",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\iFruze\\Desktop\\VeloKomRazor\\VeloKom\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/VeloKom",
+      "RelativePath": "img/01377ba0-c2fe-450f-811f-9fce4d3bafea_обои2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qelnc51ljk",
+      "Integrity": "Itym3cPkv5FInGMrnoAJ4NNkmia1If+wt2ju9KN1nAM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\01377ba0-c2fe-450f-811f-9fce4d3bafea_обои2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\iFruze\\Desktop\\VeloKomRazor\\VeloKom\\WebApplication1\\wwwroot\\img\\02502adc-d148-43f2-8f6e-a6e6580ea820_обои1.jpg",
+      "SourceId": "VeloKom",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\iFruze\\Desktop\\VeloKomRazor\\VeloKom\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/VeloKom",
+      "RelativePath": "img/02502adc-d148-43f2-8f6e-a6e6580ea820_обои1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xvgmj7gudj",
+      "Integrity": "AxIJcsXIBIDGfUJAB+zRT+ZTkVExXSXmKarbTSxvx04=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\02502adc-d148-43f2-8f6e-a6e6580ea820_обои1.jpg"
+    },
+    {
       "Identity": "C:\\Users\\iFruze\\Desktop\\VeloKomRazor\\VeloKom\\WebApplication1\\wwwroot\\img\\10c4d3ab-91d1-45ad-be79-7a0552d93392_home.png",
       "SourceId": "VeloKom",
       "SourceType": "Discovered",
@@ -2787,6 +2829,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\empty_heart.png"
+    },
+    {
+      "Identity": "C:\\Users\\iFruze\\Desktop\\VeloKomRazor\\VeloKom\\WebApplication1\\wwwroot\\img\\f610b4bc-fbe0-455f-8eba-f77e5c43feea_обои1.jpg",
+      "SourceId": "VeloKom",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\iFruze\\Desktop\\VeloKomRazor\\VeloKom\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/VeloKom",
+      "RelativePath": "img/f610b4bc-fbe0-455f-8eba-f77e5c43feea_обои1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xvgmj7gudj",
+      "Integrity": "AxIJcsXIBIDGfUJAB+zRT+ZTkVExXSXmKarbTSxvx04=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\f610b4bc-fbe0-455f-8eba-f77e5c43feea_обои1.jpg"
     },
     {
       "Identity": "C:\\Users\\iFruze\\Desktop\\VeloKomRazor\\VeloKom\\WebApplication1\\wwwroot\\img\\fc8456f2-2dd7-4bd5-a670-d054d3fc6be9_cube.jpg",
@@ -8597,6 +8660,170 @@
       ]
     },
     {
+      "Route": "img/01377ba0-c2fe-450f-811f-9fce4d3bafea_обои2.jpg",
+      "AssetFile": "C:\\Users\\iFruze\\Desktop\\VeloKomRazor\\VeloKom\\WebApplication1\\wwwroot\\img\\01377ba0-c2fe-450f-811f-9fce4d3bafea_обои2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81637"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Itym3cPkv5FInGMrnoAJ4NNkmia1If+wt2ju9KN1nAM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 07:55:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Itym3cPkv5FInGMrnoAJ4NNkmia1If+wt2ju9KN1nAM="
+        }
+      ]
+    },
+    {
+      "Route": "img/01377ba0-c2fe-450f-811f-9fce4d3bafea_обои2.qelnc51ljk.jpg",
+      "AssetFile": "C:\\Users\\iFruze\\Desktop\\VeloKomRazor\\VeloKom\\WebApplication1\\wwwroot\\img\\01377ba0-c2fe-450f-811f-9fce4d3bafea_обои2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81637"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Itym3cPkv5FInGMrnoAJ4NNkmia1If+wt2ju9KN1nAM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 07:55:14 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qelnc51ljk"
+        },
+        {
+          "Name": "label",
+          "Value": "img/01377ba0-c2fe-450f-811f-9fce4d3bafea_обои2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Itym3cPkv5FInGMrnoAJ4NNkmia1If+wt2ju9KN1nAM="
+        }
+      ]
+    },
+    {
+      "Route": "img/02502adc-d148-43f2-8f6e-a6e6580ea820_обои1.jpg",
+      "AssetFile": "C:\\Users\\iFruze\\Desktop\\VeloKomRazor\\VeloKom\\WebApplication1\\wwwroot\\img\\02502adc-d148-43f2-8f6e-a6e6580ea820_обои1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "318659"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AxIJcsXIBIDGfUJAB+zRT+ZTkVExXSXmKarbTSxvx04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 07:56:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AxIJcsXIBIDGfUJAB+zRT+ZTkVExXSXmKarbTSxvx04="
+        }
+      ]
+    },
+    {
+      "Route": "img/02502adc-d148-43f2-8f6e-a6e6580ea820_обои1.xvgmj7gudj.jpg",
+      "AssetFile": "C:\\Users\\iFruze\\Desktop\\VeloKomRazor\\VeloKom\\WebApplication1\\wwwroot\\img\\02502adc-d148-43f2-8f6e-a6e6580ea820_обои1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "318659"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AxIJcsXIBIDGfUJAB+zRT+ZTkVExXSXmKarbTSxvx04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 07:56:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xvgmj7gudj"
+        },
+        {
+          "Name": "label",
+          "Value": "img/02502adc-d148-43f2-8f6e-a6e6580ea820_обои1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AxIJcsXIBIDGfUJAB+zRT+ZTkVExXSXmKarbTSxvx04="
+        }
+      ]
+    },
+    {
       "Route": "img/10c4d3ab-91d1-45ad-be79-7a0552d93392_home.png",
       "AssetFile": "C:\\Users\\iFruze\\Desktop\\VeloKomRazor\\VeloKom\\WebApplication1\\wwwroot\\img\\10c4d3ab-91d1-45ad-be79-7a0552d93392_home.png",
       "Selectors": [],
@@ -11791,6 +12018,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-HWyHgB/3i0F89eQQRqqZJT/c983KMDS+Pk0ZZuwmR0Q="
+        }
+      ]
+    },
+    {
+      "Route": "img/f610b4bc-fbe0-455f-8eba-f77e5c43feea_обои1.jpg",
+      "AssetFile": "C:\\Users\\iFruze\\Desktop\\VeloKomRazor\\VeloKom\\WebApplication1\\wwwroot\\img\\f610b4bc-fbe0-455f-8eba-f77e5c43feea_обои1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "318659"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AxIJcsXIBIDGfUJAB+zRT+ZTkVExXSXmKarbTSxvx04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 08:01:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AxIJcsXIBIDGfUJAB+zRT+ZTkVExXSXmKarbTSxvx04="
+        }
+      ]
+    },
+    {
+      "Route": "img/f610b4bc-fbe0-455f-8eba-f77e5c43feea_обои1.xvgmj7gudj.jpg",
+      "AssetFile": "C:\\Users\\iFruze\\Desktop\\VeloKomRazor\\VeloKom\\WebApplication1\\wwwroot\\img\\f610b4bc-fbe0-455f-8eba-f77e5c43feea_обои1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "318659"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AxIJcsXIBIDGfUJAB+zRT+ZTkVExXSXmKarbTSxvx04=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 08:01:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xvgmj7gudj"
+        },
+        {
+          "Name": "label",
+          "Value": "img/f610b4bc-fbe0-455f-8eba-f77e5c43feea_обои1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AxIJcsXIBIDGfUJAB+zRT+ZTkVExXSXmKarbTSxvx04="
         }
       ]
     },

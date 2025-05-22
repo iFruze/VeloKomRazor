@@ -288,6 +288,42 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\00df5259-1724-4950-a7f4-76d89dbbd637_fewfw.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\01377ba0-c2fe-450f-811f-9fce4d3bafea_обои2.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>VeloKom</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/VeloKom</BasePath>
+      <RelativePath>img/01377ba0-c2fe-450f-811f-9fce4d3bafea_обои2.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>qelnc51ljk</Fingerprint>
+      <Integrity>Itym3cPkv5FInGMrnoAJ4NNkmia1If+wt2ju9KN1nAM=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\01377ba0-c2fe-450f-811f-9fce4d3bafea_обои2.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\02502adc-d148-43f2-8f6e-a6e6580ea820_обои1.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>VeloKom</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/VeloKom</BasePath>
+      <RelativePath>img/02502adc-d148-43f2-8f6e-a6e6580ea820_обои1.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>xvgmj7gudj</Fingerprint>
+      <Integrity>AxIJcsXIBIDGfUJAB+zRT+ZTkVExXSXmKarbTSxvx04=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\02502adc-d148-43f2-8f6e-a6e6580ea820_обои1.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\10c4d3ab-91d1-45ad-be79-7a0552d93392_home.png'))">
       <SourceType>Package</SourceType>
       <SourceId>VeloKom</SourceId>
@@ -989,6 +1025,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\empty_heart.png'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\f610b4bc-fbe0-455f-8eba-f77e5c43feea_обои1.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>VeloKom</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/VeloKom</BasePath>
+      <RelativePath>img/f610b4bc-fbe0-455f-8eba-f77e5c43feea_обои1.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>xvgmj7gudj</Fingerprint>
+      <Integrity>AxIJcsXIBIDGfUJAB+zRT+ZTkVExXSXmKarbTSxvx04=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\f610b4bc-fbe0-455f-8eba-f77e5c43feea_обои1.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\img\fc8456f2-2dd7-4bd5-a670-d054d3fc6be9_cube.jpg'))">
       <SourceType>Package</SourceType>
